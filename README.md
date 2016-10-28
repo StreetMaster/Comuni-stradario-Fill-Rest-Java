@@ -7,6 +7,8 @@ Ambiente di sviluppo
 
 End point del servizio 
      http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smrest/fill
+     
+Il protocollo di comunicazione e' in formato JSON 
 
 Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiave per il servizio FILL.
 Il servizio permette di effettuare in maniera gratuita 250 chiamate mensili. 
