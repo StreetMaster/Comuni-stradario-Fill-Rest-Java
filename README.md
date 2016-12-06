@@ -7,7 +7,6 @@ Demo Java per l'utilizzo del ws rest FILL di verifica, correzione e normalizzazi
   - JDK 1.8
 
 ### Endpoint 
-Endpoint del servizio 
 ```
      http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smrest/fill
 ```     
