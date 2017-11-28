@@ -1,6 +1,6 @@
-# Web Service di verifica e correzione degli indirizzi italiani
+# Comuni italiani e stradario. Web Service di verifica e correzione.
 ## Demo Fill Rest Java
-Demo Java per l'utilizzo del ws rest FILL di verifica, correzione e normalizzazione degli indirizzi italiani
+Comuni italiani e stradario. Demo Java per l'utilizzo del ws rest FILL di verifica e correzione.
 
 ### Ambiente di sviluppo
   - NetBeans IDE 8.1
