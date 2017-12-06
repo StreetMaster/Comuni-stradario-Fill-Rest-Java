@@ -1,6 +1,6 @@
 # Comuni italiani e stradario. Web Service di verifica e correzione.
-## Demo Fill Rest Java
-Comuni italiani e stradario. Demo Java per l'utilizzo del ws rest FILL di verifica e correzione.
+## Fill Rest Java
+Comuni italiani e stradario. Soluzione Java per l'utilizzo del ws rest FILL di verifica e correzione.
 
 ### Ambiente di sviluppo
   - NetBeans IDE 8.1
