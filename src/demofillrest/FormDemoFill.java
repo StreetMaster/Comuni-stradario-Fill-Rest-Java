@@ -11,12 +11,12 @@ import javax.ws.rs.core.MediaType;
   * Esempio di utilizzo del servizio WS FILL per la verifica e la normalizzazione degli indirizzi italiani realizzato da StreetMaster Italia
   * 
   * L'end point del servizio è 
-  *     http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smrest/http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smrest/webresources/fill
+  *     https://streetmaster.streetmaster.it/smrest/webresources/fill
   *     
   * Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiave per il servizio FILL 
   * Il protocollo di comunicazione e' in formato JSON
   * 
-  * 2016 - Software by StreetMaster (c)
+  * 2020 - Software by StreetMaster (c)
   */
 
 public class FormDemoFill extends javax.swing.JFrame {
@@ -406,7 +406,7 @@ public class FormDemoFill extends javax.swing.JFrame {
     private void jBtnCallFillActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jBtnCallFillActionPerformed
            // oggetto client per l'utilizzo del ws VERIFY
         Client client1 = ClientBuilder.newClient();
-        WebTarget target = client1.target("http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smrest/webresources/fill");
+        WebTarget target = client1.target("https://streetmaster.streetmaster.it/smrest/webresources/fill");
         
         // valorizzazione input
         // per l'esempio viene valorizzato un insieme minimo dei parametri
