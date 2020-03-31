@@ -8,7 +8,7 @@ Comuni italiani e stradario. Soluzione Java per l'utilizzo del ws rest FILL di v
 
 ### Endpoint 
 ```
-     http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smrest/fill
+     https://streetmaster.streetmaster.it/smrest/fill
 ```     
 Il protocollo di comunicazione e' in formato JSON 
 
